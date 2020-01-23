@@ -1,0 +1,22 @@
+[
+    {
+        "no":1,
+        "langkah":"buka Aplikasi Dana Yang sudah anda Install"
+    },
+    {
+        "no": 2,
+        "langkah": "Pilih menu Kirim, dan Pilih menu \"kirim ke Nomor Telephone\""
+    },
+    {
+        "no": 3,
+        "langkah": "Klik Kirim Ke Nomor Telephone"
+    },
+    {
+        "no": 4,
+        "langkah": "Masukan nomor( nomor yg diatas ), Nominal, dan Klik Lanjut"
+    },
+    {
+        "no": 5,
+        "langkah": "Masukan Pesana dengan format \"nama pesanan, nominal, noHp dan alamat\"  untuk memastikan Pesanan"
+    }
+]

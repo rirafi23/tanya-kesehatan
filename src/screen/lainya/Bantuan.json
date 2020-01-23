@@ -1,0 +1,14 @@
+[
+    {
+        "nama":"Email Kami",
+        "onPress": "email"
+    },
+    {
+        "nama":"Hubungi Kami",
+        "onPress": "noTelp"
+    },
+    {
+        "nama":"Message Kami",
+        "onPress": "message"
+    }
+]

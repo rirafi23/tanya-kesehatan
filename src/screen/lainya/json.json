@@ -1,0 +1,12 @@
+[
+    {
+        "nama":"Riwayat Transaksi",
+        "onPress":"Riwayat",
+        "icon":"notebook"
+    },
+    {
+        "nama":"Bantuan",
+        "onPress": "Bantuan",
+        "icon": "people"
+    }
+]

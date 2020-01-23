@@ -1,0 +1,22 @@
+[
+    {
+        "nama":"daftar konsultan",
+        "image":"",
+        "onPress":"Konsultasi"
+    },
+    {
+        "nama": "daftar product Obat",
+        "image": "",
+        "onPress": "Store"
+    },
+    {
+        "nama": "daftar Pesanan",
+        "image": "",
+        "onPress": "TampilPesan"
+    },
+    {
+        "nama": "grafik Pesanan",
+        "image": "",
+        "onPress": ""
+    }
+]

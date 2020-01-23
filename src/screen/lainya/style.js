@@ -1,0 +1,50 @@
+import {StyleSheet} from 'react-native'
+
+export const styleLainya = StyleSheet.create({
+    component:{
+        width:'100%',
+        height:'100%'
+    },
+    cardPP:{
+        width:'100%',
+        height:150,
+        flexDirection:'row',
+        padding:5,
+        elevation:8,
+        backgroundColor:'#fff',
+    },
+    cardImage:{
+        width:'33%',
+        height  :'100%',
+        backgroundColor:'gray'
+    },
+    cardText:{
+        width:'67%',
+        height:'100%',
+        paddingTop:5,  
+        paddingHorizontal:8,
+        paddingBottom:10
+    },
+    textUserName:{
+        fontSize:16,
+        fontWeight:'bold',
+        marginVertical:1
+    },
+    text:{
+        marginVertical:1,
+        fontSize:13.5
+    },
+    itemComponent:{
+        width:'100%',
+        paddingBottom:10,
+        paddingTop:10,
+        marginTop:10,
+        borderBottomWidth:2,
+        borderBottomColor:"#d3d3d3",
+        flexDirection:'row'
+    },
+    textIC:{
+        fontSize:15.5,
+        fontWeight:'100'
+    }
+})
